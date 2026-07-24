@@ -148,7 +148,7 @@
       </p>
       <p align="center">
         <!-- 🔧 Replace with your actual Disease Prediction repo link -->
-        <a href="https://github.com/Dhruv-Kashyap-3009/Disease-Prediction-ML">
+        <a href="https://github.com/Dhruv-Kashyap-3009/Disease-Prediction-System">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -168,7 +168,7 @@
       </p>
       <p align="center">
         <!-- 🔧 Replace with your actual Agri-Rent repo link -->
-        <a href="https://github.com/Dhruv-Kashyap-3009/Agri-Equipment-Rental">
+        <a href="https://github.com/Dhruv-Kashyap-3009/Agricultural-Equipment-Rental-Management-System">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
