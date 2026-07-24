@@ -1,18 +1,272 @@
-# 💫 About Me:
-# Hey, I'm Dhruv 👋<br><br>I'm a Computer Science student and aspiring Software Engineer who enjoys building full-stack applications and writing clean, efficient code.<br><br>### Tech Stack<br>- 💻 Java, JavaScript<br>- ⚛️ React.js<br>- 🚀 Node.js, Express.js<br>- 🍃 MongoDB<br>- 🔗 REST APIs<br>- 🔐 JWT Authentication<br><br>Currently sharpening my skills in:<br>- Data Structures & Algorithms<br>- System Design<br>- Machine Learning & LLMs<br><br>I believe the best way to learn is by building projects and solving challenging problems.
+<div align="center">
 
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dhruv+Kashyap+%F0%9F%91%8B;Software+Engineer+in+the+Making;Backend+%7C+MERN+Stack+%7C+DSA+in+Java;Exploring+ML%2C+NLP+%26+LLMs+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvkashyap3009) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvkashyap10a22@gmail.com) 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Dhruv-Kashyap-3009&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dhruv-Kashyap-3009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Dhruv-Kashyap-3009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruv-Kashyap-3009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=Dhruv-Kashyap-3009&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ================= ABOUT ME ================= -->
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science undergraduate passionate about **Software Development**, **Backend Engineering**, and **Artificial Intelligence**
+- 🚀 I love building scalable full-stack applications using the **MERN Stack**
+- 🧩 I regularly solve **Data Structures & Algorithms** problems in **Java**
+- 🌱 Currently learning:
+  - System Design
+  - Machine Learning
+  - Natural Language Processing (NLP)
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - Cloud Fundamentals
+- 🎯 **Goal:** Become a Software Engineer building real-world, high-impact products
+- 💬 Ask me about: **React, Node.js, Express, MongoDB, Java, DSA**
+- ⚡ Fun fact: I enjoy turning "it works on my machine" into "it works everywhere"
+
+<br/>
+
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,py,mysql" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+
+</div>
+
+<br/>
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+
+<!-- 🔧 Replace "Dhruv-Kashyap-3009" below if your GitHub username changes -->
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dhruv-Kashyap-3009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Kashyap-3009&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Kashyap-3009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution & Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-Kashyap-3009&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="100%" />
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Dhruv-Kashyap-3009/Dhruv-Kashyap-3009/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<!-- ⚙️ To activate the snake animation:
+     1. Create a repo named exactly "Dhruv-Kashyap-3009" (same as your username)
+     2. Add the "Snk" GitHub Action from https://github.com/Platane/snk to that repo
+     3. It will auto-generate the SVG above on the "output" branch -->
+
+</div>
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhruv-Kashyap-3009&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+<br/>
+
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤝 DevCollab</h3>
+      <p align="center"><b>Developer Collaboration Platform</b></p>
+      <p align="center">
+        A full-stack platform for developers to connect and collaborate, built with a
+        <b>React 19 + Vite</b> frontend and a <b>Node.js / Express 5 / MongoDB</b> backend,
+        featuring a custom dark-themed UI and email-based invite system.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        <!-- 🔧 Replace with your actual DevCollab repo link -->
+        <a href="https://github.com/Dhruv-Kashyap-3009/DevCollab">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🩺 Disease Prediction</h3>
+      <p align="center"><b>ML-Powered Diagnosis Assistant</b></p>
+      <p align="center">
+        A machine learning system using an <b>Artificial Neural Network</b> served via <b>Flask</b>,
+        enhanced with <b>SHAP explainability</b>, PDF report export, and a fully tested
+        Flask factory-pattern architecture.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" />
+      </p>
+      <p align="center">
+        <!-- 🔧 Replace with your actual Disease Prediction repo link -->
+        <a href="https://github.com/Dhruv-Kashyap-3009/Disease-Prediction-ML">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚜 Agri-Rent</h3>
+      <p align="center"><b>Agricultural Equipment Rental System</b></p>
+      <p align="center">
+        A full-stack platform connecting farmers to rent agricultural equipment on demand,
+        streamlining bookings, availability tracking, and payments.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN_Stack-61DAFB?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+      </p>
+      <p align="center">
+        <!-- 🔧 Replace with your actual Agri-Rent repo link -->
+        <a href="https://github.com/Dhruv-Kashyap-3009/Agri-Equipment-Rental">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✨ More Coming Soon</h3>
+      <p align="center"><b>Always Building Something New</b></p>
+      <p align="center">
+        Currently exploring projects around <b>System Design</b>, <b>NLP</b>, and
+        <b>RAG-based LLM applications</b> — stay tuned for updates!
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Dhruv-Kashyap-3009?tab=repositories">
+          <img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ================= SOCIALS ================= -->
+## 🌐 Connect With Me
+
+<!-- 🔧 Replace every URL/handle below with your own -->
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR_PORTFOLIO" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ================= FUN SECTION ================= -->
+## 🎉 Just For Fun
+
+<div align="center">
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<!-- Coding GIF -->
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="0" height="0" />
+<img src="https://github.com/user-attachments/assets/placeholder-coding.gif" width="450" alt="Coding GIF" />
+<!-- 🔧 If the GIF above doesn't load, replace with any public coding GIF URL, e.g. from giphy.com -->
+
+<br/><br/>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" />
+<img src="https://forthebadge.com/images/badges/uses-git.svg" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<br/>
+
+⭐️ **From [Dhruv-Kashyap-3009](https://github.com/Dhruv-Kashyap-3009) — thanks for stopping by!** ⭐️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer" width="100%" />
+
+</div>
