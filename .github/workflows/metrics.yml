@@ -1,0 +1,76 @@
+name: GitHub Metrics
+
+# Generates github-metrics.svg (stats, languages, heatmap, habits, achievements)
+# and commits it to this repo. The README reads the SVG straight from this
+# repository, so nothing can ever rate-limit it.
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # 00:00 IST, daily
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+  push:
+    branches:
+      - main # 🔧 change to "master" if that is your default branch
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # required so the action can commit the SVG back
+
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 🔑 REQUIRED — metrics reads user-level data (commits, activity, PRs,
+          # issues) which a repository-scoped token such as secrets.GITHUB_TOKEN
+          # CANNOT access, so the run fails with an error card without this.
+          # Create a personal access token and save it as the repo secret
+          # METRICS_TOKEN: repo → Settings → Secrets and variables → Actions.
+          # No scopes are strictly required; add public_repo / read:user for
+          # private contributions. See the notes in this thread for the steps.
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Dhruv-Kashyap-3009
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: Asia/Kolkata
+          config_display: large
+
+          # Header (totals) · activity · community · repositories · metadata
+          base: header, activity, community, repositories, metadata
+
+          # 📊 Language bar chart with percentages
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_languages_details: percentage
+
+          # 🗓️ Full-year contribution calendar heatmap
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # ⏰ When you actually commit (hour / weekday charts)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+
+          # ⭐ Starred-repo showcase
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # 🏆 Achievement badges
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+
+          # 📈 Lines of code written
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_sections: base

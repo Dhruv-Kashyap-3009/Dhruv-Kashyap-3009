@@ -1,0 +1,35 @@
+name: Generate Snake
+
+# Renders the contribution-graph snake onto an "output" branch, which is where
+# the README reads it from: <repo>/output/github-contribution-grid-snake-dark.svg
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+  push:
+    branches:
+      - main # 🔧 change to "master" if that is your default branch
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # required so the action can push the "output" branch
+
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
